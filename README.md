@@ -1,5 +1,10 @@
-### Hi there 👋
-
+<div align="center">
+  
+  <p><b><i>click here</i></b></p>
+  <a href="https://cszzi.notion.site/cszzi/Web-Developer_-327f7ce142e54bceb82d3aae833b762d" target="_blank"><img src="https://img.shields.io/badge/About Me!-FFC0CB?style=flat&logo=Notion&logoColor=000000"/></a>
+  <a href="https://velog.io/@cszzi1006" target="_blank"><img src="https://img.shields.io/badge/My Velog-b0e0e6?style=flat&logo=Velog&logoColor=000000"/></a>
+</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=cobalt&show_icons=true)
 <!--
 **chasj0326/chasj0326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
