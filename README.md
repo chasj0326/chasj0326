@@ -37,10 +37,11 @@
       <img src="https://img.shields.io/badge/Ai-FF9A00?style=flat&logo=adobeillustrator&logoColor=white">   
     </div>
   </div>
+ <br/>
 </div>
 <hr/>
+<br/>
 <div align=center>
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chasj0326&show_icons=true&theme=cobalt) 
-  
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chasj0326&show_icons=true&theme=cobalt) 
 </div>
