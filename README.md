@@ -38,7 +38,7 @@
     </div>
   </div>
 </div>
-<br></br>
+<hr/>
 <div align=center>
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chasj0326&show_icons=true&theme=cobalt) 
