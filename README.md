@@ -39,8 +39,6 @@
   </div>
 </div>
 <br></br>
-[![Solved.ac
-Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=chasj0326)](https://solved.ac/chasj0326)
 <div align=center>
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chasj0326&show_icons=true&theme=cobalt) 
