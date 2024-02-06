@@ -1,14 +1,6 @@
-```
-  __                  ___       ___               __
- /\ \                /\_ \     /\_ \             /\ \
- \ \ \___       __   \//\ \    \//\ \      ___   \ \ \
-  \ \  _ `\   /'__`\   \ \ \     \ \ \    / __`\  \ \ \
-   \ \ \ \ \ /\  __/    \_\ \_    \_\ \_ /\ \L\ \  \ \_\
-    \ \_\ \_\\ \____\   /\____\   /\____\\ \____/   \/\_\
-     \/_/\/_/ \/____/   \/____/   \/____/ \/___/     \/_/
-```
-
 <div align="center">
+
+![image](https://github.com/chasj0326/chasj0326/assets/62418379/82623133-eb11-4dcf-b32b-e2cd758c0998)
 
   
 ### `About Me`
@@ -56,5 +48,7 @@ Figma | Github | Notion
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=cszzi1006)](https://velog.io/@cszzi1006) 
 
+
+![image](https://github.com/chasj0326/chasj0326/assets/62418379/ef5bde06-4cad-44e8-b23b-29cf22b0a405)
 
 </div>
