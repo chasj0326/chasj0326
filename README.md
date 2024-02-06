@@ -48,6 +48,7 @@ Figma | Github | Notion
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=cszzi1006)](https://velog.io/@cszzi1006) 
 
+<br/>
 
 ![image](https://github.com/chasj0326/chasj0326/assets/62418379/ef5bde06-4cad-44e8-b23b-29cf22b0a405)
 
