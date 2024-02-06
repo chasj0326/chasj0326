@@ -2,13 +2,13 @@
 ### `About Me`
 <ul>
   <li>
-    <a href="https://chachadev.notion.site/chachadev/Portfolio-7aa62c476b6d4d9281807e4d86513220">
+    <a href="https://chachadev.notion.site/chachadev/Portfolio-7aa62c476b6d4d9281807e4d86513220" target="_blank">
       <img align="center" src="https://github.com/chasj0326/chasj0326/assets/62418379/91b30548-fcaa-4c3c-b641-93baed47c22d" width="30" />
       Notion
     </a>
   </li>
   <li>
-    <a href="https://drive.google.com/file/d/1QcWiWmr20-S5lVsYCoLULY5xDihADOd_/view?usp=sharing">
+    <a href="https://drive.google.com/file/d/1QcWiWmr20-S5lVsYCoLULY5xDihADOd_/view?usp=sharing" target="_blank">
       <img align="center" src="https://github.com/chasj0326/chasj0326/assets/62418379/1aaea7a3-7e92-4879-827a-9f2022a97789" width="30" />
       PDF (Google Drive)
     </a>
