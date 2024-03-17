@@ -43,7 +43,10 @@ Figma | Github | Notion
   <img align="center" src="https://github.com/chasj0326/chasj0326/assets/62418379/6a002abb-bee8-41ee-948f-0d01b2049520" width="30" />
   <a><b>Angola</b> : 밸런스 게임 서비스 ( <a href="https://github.com/prgrms-fe-devcourse/FEDC4_Angola_NaYoung">repo</a> / <a href="https://fedc4-angola.vercel.app/">service</a> )
 </div>
-
+<div>
+  <img align="center" src="https://github.com/chasj0326/chasj0326/assets/62418379/91b30548-fcaa-4c3c-b641-93baed47c22d" width="30" />
+  <a><b>Notion</b> : 노션 클론 에디터 ( <a href="https://github.com/chasj0326/vanilla_playground">repo</a> / <a href="https://vanilla-playground-five.vercel.app/home">service</a> )
+</div>
 <br/>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=cszzi1006)](https://velog.io/@cszzi1006) 
