@@ -7,7 +7,7 @@
 <div>
   <a href="https://chachadev.notion.site/chachadev/Portfolio-7aa62c476b6d4d9281807e4d86513220" target="_blank">
     <img align="center" src="https://github.com/chasj0326/chasj0326/assets/62418379/91b30548-fcaa-4c3c-b641-93baed47c22d" width="32" />
-    Notion
+    Notion Portfolio
   </a>
 </div>
 <div>
